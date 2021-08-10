@@ -1,1 +1,1 @@
-# py-structure
+# python-telegram-bot-template
